@@ -1,0 +1,29 @@
+#header
+{
+    height: 150px;
+    background-color: red;
+}
+#colum1
+{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+}
+#colum2
+{
+    height: 200px;
+    width: 200px;
+    background: blue;
+}
+
+#colum1, #colum2
+{
+    display: inline-block;
+    vertical-align: top;
+}
+#pie
+{
+    
+    height: 200px;
+    background: green;
+}
